@@ -1,6 +1,8 @@
 # flicked_app
 
 A new Flutter project.
+![Screenshot 2024-08-25 123544](https://github.com/user-attachments/assets/3cd60f3f-fd96-4f23-b642-a48bd5f3d740)
+
 
 ## Getting Started
 
